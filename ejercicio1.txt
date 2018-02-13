@@ -15,8 +15,8 @@ public class Main{
 		System.out.println("El numero mayor es: "+b);
 		}
 		if(a==b){
-		System.out.println("Estos numeros son iguales");
+		System.out.println("Estos numeros son iguales"+a);
 		}	
-			
+		System.out.println("Ha finalizado el programa");	
 	}	
 }

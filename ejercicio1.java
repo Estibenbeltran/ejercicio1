@@ -3,6 +3,7 @@ public class Main{
 	public static void main(String[] arg){
 		float a,b;
 		Scanner cap = new Scanner(System.in);
+		System.out.println("Este programa te permitirá saber el numero mayor, el numero menor y si son iguales entre dos variables");
 		System.out.println("Ingresa el primer numero");
 		a = cap.nextFloat();
 		System.out.println("Ingresa el segundo número");
